@@ -1,0 +1,154 @@
+:root {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Georgia, 'Times New Roman', Times, serif, Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  background-color: rgb(24, 12, 9, 0.45);
+  color: rgb(234, 224, 188, 0.9);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  display: grid;
+  /* font-size: 5rem; */
+  min-width: 320px;
+  min-height: 100vh;
+  place-content: center;
+  /* place-items: center; */
+}
+
+/*
+Site colors
+#0d1415
+#0f1417
+#0f1516
+#c6b1b3
+#0c1415
+#66676a
+#759cb1
+#4176ae
+#3f4141
+#2c445d
+#1c2436
+#345754
+#350d10
+#bcb9a0
+#77a199
+#64635a
+#3874af
+#40423f
+#123f6d
+#375924
+#162139
+#301413
+#bcbcba
+#0e1416
+#69696a
+#7a9cad
+#3776b0
+
+#404141
+
+#17406a
+
+#182438
+
+#365734
+
+#301218
+
+#c5c2bf
+
+#0e1415
+
+#666364
+
+#789db6
+
+#3475b1
+
+#414242
+
+#113f6d
+
+#13223a
+
+#33211d
+
+#355852
+
+#0e1214
+
+#b7bec6
+
+#686869
+
+#fdfefe
+
+#ef4250
+
+#0d81d7
+
+#abd65e
+
+#fed700
+
+#bd03a1
+
+#5132d6
+
+#4d7802
+
+#0cce82
+
+#034484
+
+#6a025d
+
+#9f350a
+
+#ef6ce4
+
+#12171d
+
+#686868
+
+#b7bec7
+
+#aad952
+
+#feffff
+
+#fc5360
+
+#024285
+
+#770321
+
+#696a6d
+
+#003b75
+
+#fefeff
+
+#abd65d
+
+#4d7801
+
+#7b1430
+
+#f6f7f9
+
+#98a2ae
+
+#7a1e18
+
+#4e7a01
+
+#ffa4ac
+*/
